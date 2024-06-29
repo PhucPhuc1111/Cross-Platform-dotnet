@@ -1,0 +1,11 @@
+﻿<Application x:Class="SalesWPFApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SalesWPFApp"
+             Startup="OnStartup"
+             >
+    <!--StartupUri="ProductManagement.xaml"-->
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>

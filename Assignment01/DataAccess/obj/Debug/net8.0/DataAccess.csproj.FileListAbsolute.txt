@@ -1,0 +1,15 @@
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\bin\Debug\net8.0\BussinessObject.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\bin\Debug\net8.0\BussinessObject.pdb
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Tài liệu\FPT\PRN221\Assignment01\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

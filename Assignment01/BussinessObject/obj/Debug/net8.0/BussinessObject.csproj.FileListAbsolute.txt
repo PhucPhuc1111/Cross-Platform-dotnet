@@ -1,0 +1,14 @@
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+C:\Tài liệu\FPT\PRN221\Assignment01\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll

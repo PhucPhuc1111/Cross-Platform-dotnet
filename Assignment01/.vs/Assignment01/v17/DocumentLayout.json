@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C822A26-54A4-4D6F-A5B2-36E827FF48F0}|DataAccess\\DataAccess.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C822A26-54A4-4D6F-A5B2-36E827FF48F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\assignment01\\membermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|solutionrelative:assignment01\\membermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\assignment01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|solutionrelative:assignment01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\assignment01\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013DD858-17C7-40F5-B516-6901101E6702}|Assignment01\\SalesWPFApp.csproj|solutionrelative:assignment01\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C822A26-54A4-4D6F-A5B2-36E827FF48F0}|DataAccess\\DataAccess.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C822A26-54A4-4D6F-A5B2-36E827FF48F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EE224D-6E0B-449A-893D-B39107762653}|BussinessObject\\BussinessObject.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\bussinessobject\\models\\sale_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EE224D-6E0B-449A-893D-B39107762653}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\sale_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EE224D-6E0B-449A-893D-B39107762653}|BussinessObject\\BussinessObject.csproj|c:\\ta\u0300i li\u00EA\u0323u\\fpt\\prn221\\assignment01\\bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47EE224D-6E0B-449A-893D-B39107762653}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\MemberManagement.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment01\\MemberManagement.xaml.cs",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\MemberManagement.xaml.cs",
+              "RelativeToolTip": "Assignment01\\MemberManagement.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:16:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:16:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment01\\App.xaml.cs",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\App.xaml.cs",
+              "RelativeToolTip": "Assignment01\\App.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:15:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment01\\App.xaml",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\Assignment01\\App.xaml",
+              "RelativeToolTip": "Assignment01\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T15:15:20.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T15:14:43.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale_ManagementContext.cs",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\BussinessObject\\Models\\Sale_ManagementContext.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\Sale_ManagementContext.cs",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\BussinessObject\\Models\\Sale_ManagementContext.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\Sale_ManagementContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:12:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BussinessObject",
+              "DocumentMoniker": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\BussinessObject\\BussinessObject.csproj",
+              "RelativeDocumentMoniker": "BussinessObject\\BussinessObject.csproj",
+              "ToolTip": "C:\\Ta\u0300i li\u00EA\u0323u\\FPT\\PRN221\\Assignment01\\BussinessObject\\BussinessObject.csproj",
+              "RelativeToolTip": "BussinessObject\\BussinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T15:12:56.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

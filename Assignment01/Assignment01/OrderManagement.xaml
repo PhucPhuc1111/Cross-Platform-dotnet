@@ -1,0 +1,100 @@
+﻿<Window x:Class="SalesWPFApp.OrderManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalesWPFApp"
+        mc:Ignorable="d"
+        Title="OrderManagement" d:DesignHeight="800" d:DesignWidth="900"
+         WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DockPanel>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="4*"/>
+
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="btnMember" Margin="0 0 0 0" Width="80" Height="30" Content="Member"  Click="btnMember_Click" />
+                    <Button x:Name="btnProduct" Margin="10 0 10 0" Width="80" Height="30" Content="Product"  Click="btnProduct_Click" />
+                    <Button x:Name="btnOrder" Margin="0 0 10 0" Width="80" Height="30" Content="Order"  Click="btnOrder_Click" />
+                    <Button x:Name="btnLogout" Margin="0 0 0 0" Width="80" Height="30" Content="Logout"  Click="btnLogout_Click" />
+                </StackPanel>
+                <StackPanel Grid.Row="1" Background="LightBlue" Orientation ="Vertical" HorizontalAlignment="Center" Width="400" >
+                    <Label Name="lbTitle" Foreground="Red" FontWeight="DemiBold" FontSize="20" Content="Order Information" />
+                    <Label Name="lbOrderId" Content="Order Id"/>
+
+                    <TextBox Name="txtOrderId" Height="25" IsReadOnly="True" Margin="0 0 0 0" HorizontalAlignment="Stretch" Width="400" Text="{Binding Path=OrderId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+
+                    <Label Name="lbMemberID" Content="Member ID" />
+                    <TextBox Name="txtMemberID" HorizontalAlignment="Stretch" Margin="0 0 0 0"  Height="25"  Width="400"  Text="{Binding Path=MemberId, Mode=OneWay}"  DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+                    <Label Name="lbOrderDate" Content="Order Date"/>
+                    <DatePicker Name="txtOrderDate" HorizontalAlignment="Stretch" Margin="0 0 0 0"  Height="25"  Width="400"  
+                             Text="{Binding Path=OrderDate, Mode=OneWay, StringFormat='dd/MM/yyyy'}" DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+                    <!--<TextBox HorizontalAlignment="Left" Height="23" Margin="0,260,0,0" 
+                             Text="{Binding Source={x:Static sys:DateTime.Now}, Mode=OneWay,  StringFormat='yyyy-MM-dd HH:mm:ss '}" VerticalAlignment="Top" Width="120"/>-->
+
+
+                    <Label Name="lbRequired" Content="Required Date"/>
+
+                    <DatePicker Name="txtRequired" HorizontalAlignment="Stretch" Margin="0 0 0 0"  Height="25"  Width="400" 
+                             Text="{Binding Path=RequiredDate, Mode=OneWay, StringFormat='dd/MM/yyyy'}" DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+
+                    <Label Name="lbShipped" Content="Shipped Date"/>
+
+                    <DatePicker Name="txtShipped" Height="25" Margin="0 0 0 0" HorizontalAlignment="Stretch" Width="400" 
+                             Text="{Binding Path=ShippedDate, Mode=OneWay, StringFormat='dd/MM/yyyy'}" DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+
+
+                    <Label Name="lbFreight" Content="Freight"/>
+
+                    <TextBox Name="txtFreight" Height="25" Margin="0 0 0 0" HorizontalAlignment="Stretch" Width="400" Text="{Binding Path=Freight, Mode=OneWay}" DataContext="{Binding ElementName=lvOrders,Path=SelectedItem}" />
+
+
+
+                </StackPanel>
+                <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center"  Width="500">
+                    <Button x:Name="btnLoad" Margin="60,0,0,0" Height="25"  Width="80" Content="Load" Click="btnLoad_Click"/>
+                    <Button x:Name="btnInsert" Margin="10" Width="80" Content="Insert" Click="btnInsert_Click" />
+                    <Button x:Name="btnUpdate" Margin="10" Width="80" Content="Update" Click="btnUpdate_Click"/>
+                    <Button x:Name="btnDelete" Margin="10" Width="80" Content="Delete"  Click="btnDelete_Click"/>
+                    
+                </StackPanel>
+                <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center"  Width="500">
+                    <TextBlock>
+                        <Label Name="lbStart" Content="Start"/>
+                         <DatePicker Name="txtStart" Width="150" HorizontalAlignment="Stretch"></DatePicker>
+                        <Label Name="lbEnd" Content="End"/>
+                         <DatePicker Name="txtEnd" Width="150" HorizontalAlignment="Stretch"></DatePicker>
+                        <Button x:Name="btnSearch" Margin="0" Width="80" Height="25" Content="Search"  Click="btnSearch_Click"/>
+                    </TextBlock>
+                   
+                    
+                </StackPanel>
+                <ListView  Grid.Row="4" Name="lvOrders" Width="Auto" Margin="0,41,0,0">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="OrderId" Width="200" DisplayMemberBinding="{Binding Path=OrderId }"/>
+                            <GridViewColumn Header="MemberId" Width="300" DisplayMemberBinding="{Binding Path=MemberId}"/>
+                            <GridViewColumn Header="OrderDate" Width="300" DisplayMemberBinding="{Binding Path=OrderDate, StringFormat='dd/MM/yyyy' }"/>
+                            <GridViewColumn Header="RequiredDate" Width="200" DisplayMemberBinding="{Binding Path=RequiredDate, StringFormat='dd/MM/yyyy'}"/>
+                            <GridViewColumn Header="ShippedDate" Width="200" DisplayMemberBinding="{Binding Path=ShippedDate, StringFormat='dd/MM/yyyy'}"/>
+                            <GridViewColumn Header="Freight" Width="200" DisplayMemberBinding="{Binding Path=Freight}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+            </Grid>
+
+        </DockPanel>
+    </Grid>
+</Window>
